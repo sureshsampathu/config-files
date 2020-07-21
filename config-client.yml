@@ -4,7 +4,7 @@ LOG4J_FILE_PATH: /home/suresh/Desktop/logs
 log:
   file-path: /home/suresh/Desktop/logs
   mode: S  ## S- Standalone, C - Centralized
-  topic: logging-topic-xyz
+  topic: logging-topic-123
   storage-type: file  ## file, db
   database-type: nosql  ## sql, nosql
   enable-product-based-logging: false  ## true, false
